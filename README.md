@@ -2,6 +2,8 @@
 
 ### The **SASdict** project builds a tool to create a SAS Data Dictionary on one or more or all datasets from a SAS data library. This tool helps assessing unfamiliar datasets, boosting analyses speed, and sharing data information across stakeholders.  
 
+This open source project is contributed by the team of RepTik Analytics Solution ([https://www.reptik.swiss/](https://www.reptik.swiss/)).
+
 #### The generated data dictionary is in Excel and contains rich summary information on: 
 
 - All Datasets: e.g. name, number of variables, records, and unique keys.
